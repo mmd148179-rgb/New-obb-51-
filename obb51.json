@@ -32,7 +32,7 @@
       "device_id": "b8cf9733-f4cd-4d59-9b97-3e29fc94ffbc",
       "expiry_date": "2025-12-31",
       "active": false,
-      "status": "inactive",
+      "status": "active",
       "created_date": "2024-01-01",
       "max_devices": 1
     }
