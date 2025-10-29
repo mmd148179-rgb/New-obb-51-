@@ -19,21 +19,12 @@
       "max_devices": 1
     },
     {
-      "key": "TEST-0000-DEMO-1111",
-      "device_id": "",
-      "expiry_date": "2024-12-31",
+      "key": "asd",
+      "device_id": "b8cf9733-f4cd-4d59-9b97-3e29fc94ffbc",
+      "expiry_date": "2025-12-20",
       "active": false,
       "status": "inactive",
-      "created_date": "2024-01-01",
-      "max_devices": 1
-    },
-    {
-      "key": "12345",
-      "device_id": "b8cf9733-f4cd-4d59-9b97-3e29fc94ffbc",
-      "expiry_date": "2025-12-31",
-      "active": false,
-      "status": "active",
-      "created_date": "2024-01-01",
+      "created_date": "2025-10-28",
       "max_devices": 5
     }
   ]
