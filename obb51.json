@@ -26,6 +26,15 @@
       "status": "inactive",
       "created_date": "2024-01-01",
       "max_devices": 1
+    },
+    {
+      "key": "12345",
+      "device_id": "628aa014-6d33-4888-9e5a-37ae20713fc0",
+      "expiry_date": "2025-12-31",
+      "active": false,
+      "status": "inactive",
+      "created_date": "2024-01-01",
+      "max_devices": 1
     }
   ]
 } 
